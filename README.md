@@ -1,16 +1,17 @@
-### Hi there 👋
+<h2> Hi, I'm Irvig!</h2>
+<img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
+<p><em>Software Enginner in progress</br>
+</em></p>
 
-<!--
-**IKrehan/IKrehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: Irvig Krehan](https://img.shields.io/badge/-IrvigKrehan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irvigkrehan/)](https://www.linkedin.com/in/irvigkrehan/)
+[![GitHub IKrehan](https://img.shields.io/github/followers/IKrehan?label=follow&style=social)](https://github.com/IKrehan)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+```python3
+class IKrehan(Dev.student):
+  languages = ["Python", "HTML", "CSS"]
+  tools = ["Django", "Flask", "Bootstrap"]
+  objectives = "Learn and apply to the fullest"
+  
+```
+---
