@@ -10,7 +10,7 @@
 ```json
 {
   "username": "IKrehan",
-  "birth": "2002",
+  "birth": 2002,
   "nationality": "brazilian",
   "languages": ["Python", "HTML", "CSS", "JavaScript"],
   "technologies": ["Django", "Flask", "Bootstrap", "ReactJS"],
