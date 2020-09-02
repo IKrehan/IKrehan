@@ -7,7 +7,7 @@
 [![GitHub IKrehan](https://img.shields.io/github/followers/IKrehan?label=follow&style=social)](https://github.com/IKrehan)
 
 ### About Me
-```json
+```javascript
 {
   "username": "IKrehan",
   "birth": 2002,
