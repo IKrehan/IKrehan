@@ -12,18 +12,8 @@
   "username": "IKrehan",
   "birth": "2002",
   "nationality": "brazilian",
-  "languages": [
-    "Python",
-    "HTML",
-    "CSS",
-    "JavaScript"
-  ],
-  "technologies": [
-    "Django",
-    "Flask",
-    "Bootstrap",
-    "ReactJS"
-  ],
+  "languages": ["Python", "HTML", "CSS", "JavaScript"],
+  "technologies": ["Django", "Flask", "Bootstrap", "ReactJS"],
   "objective": "Learn and apply to the fullest",
 }
 ```
