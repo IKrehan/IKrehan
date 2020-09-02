@@ -7,11 +7,24 @@
 [![GitHub IKrehan](https://img.shields.io/github/followers/IKrehan?label=follow&style=social)](https://github.com/IKrehan)
 
 ### About Me
-```python3
-class IKrehan(Dev.student):
-  languages = ["Python", "HTML", "CSS"]
-  tools = ["Django", "Flask", "Bootstrap"]
-  objectives = "Learn and apply to the fullest"
-  
+```json
+{
+  "username": "IKrehan",
+  "birth": "2002",
+  "nationality": "brazilian",
+  "languages": [
+    "Python",
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "technologies": [
+    "Django",
+    "Flask",
+    "Bootstrap",
+    "ReactJS"
+  ],
+  "objective": "Learn and apply to the fullest",
+}
 ```
 ---
