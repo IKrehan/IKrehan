@@ -7,14 +7,13 @@
 [![GitHub IKrehan](https://img.shields.io/github/followers/IKrehan?label=follow&style=social)](https://github.com/IKrehan)
 
 ### About Me
-```javascript
-{
-  "username": "IKrehan",
-  "birth": 2002,
-  "nationality": "brazilian",
-  "languages": ["Python", "HTML", "CSS", "JavaScript"],
-  "technologies": ["Django", "Flask", "Bootstrap", "ReactJS"],
-  "objective": "Learn and apply to the fullest",
-}
+```python
+class IKrehan:
+    def __init__(self):
+        self.name = 'Irvig Krehan'
+        self.birth = '27/12/2002'
+        self.nationality = 'brazilian'
+        self.languages = ['Python', 'HTML', 'CSS', 'JavaScript']
+        self.technologies = ["Django", "Flask", "Bootstrap"]
 ```
 ---
