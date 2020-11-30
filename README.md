@@ -1,6 +1,6 @@
 <h2> Hi, I'm Irvig!</h2>
 <img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
-<p><em>Software Enginner in progress</br>
+<p><em>Software Enginner</br>
 </em></p>
 
 [![Linkedin: Irvig Krehan](https://img.shields.io/badge/-IrvigKrehan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irvigkrehan/)](https://www.linkedin.com/in/irvigkrehan/)
