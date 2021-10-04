@@ -15,11 +15,11 @@ const Irvig = {
     code: ["JavaScript", "TypeScript", "Python"],
     technologies: {
         frontEnd: {
-            js: ["ReactJs"],
+            js: ["ReactJs", "NextJs"],
             css: ["Bootstrap", "Tailwindcss"]
         },
         backEnd: {
-            js: ["NodeJs", "ExpressJs"],
+            js: ["NodeJs", "ExpressJs", "NestJs"],
             python: ["Flask"]
         },
     },
