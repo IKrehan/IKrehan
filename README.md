@@ -23,6 +23,10 @@ const Irvig = {
             python: ["Flask"]
         },
     },
+    currentlyStudying: [
+    "Terraform",
+    "AWS Lambda",
+    ],
 };
 ```
 
