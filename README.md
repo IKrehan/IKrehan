@@ -25,7 +25,7 @@ const Irvig = {
     },
     currentlyStudying: [
         "Terraform",
-        "AWS Lambda",
+        "AWS",
     ],
 };
 ```
