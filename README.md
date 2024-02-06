@@ -1,6 +1,6 @@
 <h2> Hi, I'm Irvig!👋</h2>
 <img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
-<p><em>👨‍💻Developer</br>
+<p><em>👨‍💻Software Engineer</br>
 </em></p>
 
 [![Linkedin: Irvig Krehan](https://img.shields.io/badge/-IrvigKrehan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irvigkrehan/)](https://www.linkedin.com/in/irvigkrehan/)
@@ -13,20 +13,7 @@ const Irvig = {
     pronouns: "He" | "Him",
     nationality: "Brazilian",
     code: ["JavaScript", "TypeScript", "Python"],
-    technologies: {
-        frontEnd: {
-            js: ["ReactJs", "NextJs"],
-            css: ["Bootstrap", "Tailwindcss"]
-        },
-        backEnd: {
-            js: ["NodeJs", "ExpressJs", "NestJs"],
-            python: ["Flask"]
-        },
-    },
-    currentlyStudying: [
-        "Terraform",
-        "AWS",
-    ],
+    tools: ["NodeJS", "Serverless", "Terraform", "AWS"],
 };
 ```
 
